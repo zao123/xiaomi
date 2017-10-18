@@ -3,6 +3,8 @@
 	padding: 0; 
 	font-weight: normal;  /* h1-h5 */
 	text-decoration: none;  /* a */  /* 下划线 */
+	list-style-type: none;
+	font-style: normal;
 }
 img{
 	width: 100%;
